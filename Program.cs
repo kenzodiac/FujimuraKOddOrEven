@@ -1,9 +1,8 @@
 ﻿//Kenneth Fujimura
-//09-12-2022 @1:45pm
+//10-19-2022
 //Mini Challenge # 6 - Odd Or Even
 //Console program that takes in an input and tells you if the number entered is odd or even.
-//Peer Review by: Jovann
-//Comment works checks if numbers are odd or even has data validation, flow chart makes sense able to read it
+//Peer Review by: 
 
 Console.Clear();
 
@@ -24,7 +23,7 @@ while (repeatProgram == true) {
 
     while (!isConverted) {
         //Ask user to input a number
-        Console.WriteLine("Please input an interger. (An integer is a whole number, not a fraction.)");
+        Console.Write("Please input an interger. (An integer is a whole number, not a fraction): ");
         userInput = Console.ReadLine();
 
         //Turn the string user input into an integer
@@ -46,22 +45,19 @@ while (repeatProgram == true) {
     } else {
         oddOrEven = "odd";
     }
-    //Output checks for troubleshooting
-    //Console.WriteLine(oddOrEven);
-    //Console.WriteLine(remainder);
     
     //Report if it's an even or odd number to user
-    Console.WriteLine("The number you inputed: '" + validNum + "' is an '" + oddOrEven + "' number.");
+    Console.WriteLine("\nThe number you inputed: '" + validNum + "' is an '" + oddOrEven + "' number.");
 
     //while loop asking the user if they want to try this again. 2nd Loop checks whether or not the user inputed a valid input
     bool validInput = false;
     while (validInput == false) {
-        Console.WriteLine("Would you like to try that again? Y/N");
-        string repeatInput = Console.ReadLine();
-        if (repeatInput == "Y" || repeatInput == "y") {
+        Console.Write("\nWould you like to try that again? Y/N: ");
+        string repeatInput = Console.ReadLine().ToLower();
+        if (repeatInput == "y" || repeatInput == "yes") {
             validInput = true;
             continue;
-        } else if (repeatInput == "N" || repeatInput == "n") {
+        } else if (repeatInput == "n" || repeatInput == "no") {
             validInput = true;
             repeatProgram = false;
         } else {
@@ -70,4 +66,4 @@ while (repeatProgram == true) {
     }
 }
 //Say good bye to the user
-Console.WriteLine("Thank you, have a nice day!");
+Console.WriteLine("\nThank you, have a nice day!");

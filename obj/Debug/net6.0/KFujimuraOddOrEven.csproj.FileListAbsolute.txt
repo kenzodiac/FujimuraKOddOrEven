@@ -1,0 +1,15 @@
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraOddOrEven/bin/Debug/net6.0/KFujimuraOddOrEven
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraOddOrEven/bin/Debug/net6.0/KFujimuraOddOrEven.deps.json
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraOddOrEven/bin/Debug/net6.0/KFujimuraOddOrEven.runtimeconfig.json
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraOddOrEven/bin/Debug/net6.0/KFujimuraOddOrEven.dll
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraOddOrEven/bin/Debug/net6.0/KFujimuraOddOrEven.pdb
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraOddOrEven/obj/Debug/net6.0/KFujimuraOddOrEven.csproj.AssemblyReference.cache
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraOddOrEven/obj/Debug/net6.0/KFujimuraOddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraOddOrEven/obj/Debug/net6.0/KFujimuraOddOrEven.AssemblyInfoInputs.cache
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraOddOrEven/obj/Debug/net6.0/KFujimuraOddOrEven.AssemblyInfo.cs
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraOddOrEven/obj/Debug/net6.0/KFujimuraOddOrEven.csproj.CoreCompileInputs.cache
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraOddOrEven/obj/Debug/net6.0/KFujimuraOddOrEven.dll
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraOddOrEven/obj/Debug/net6.0/refint/KFujimuraOddOrEven.dll
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraOddOrEven/obj/Debug/net6.0/KFujimuraOddOrEven.pdb
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraOddOrEven/obj/Debug/net6.0/KFujimuraOddOrEven.genruntimeconfig.cache
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraOddOrEven/obj/Debug/net6.0/ref/KFujimuraOddOrEven.dll
